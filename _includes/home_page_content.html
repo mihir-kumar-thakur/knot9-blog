@@ -1,0 +1,17 @@
+<section class="site-section py-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2 class="mb-4">Lifestyle Category</h2>
+      </div>
+    </div>
+    <div class="row blog-entries">
+      <div class="col-md-12 col-lg-8 main-content">
+        {% include post_entries.html %}
+        {% include pagination.html %}
+        {% include more_posts.html %}
+      </div>
+      {% include sidebar.html %}
+    </div>
+  </div>
+</section>
