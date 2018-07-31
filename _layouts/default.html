@@ -1,29 +1,14 @@
 <!doctype html>
 
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300, 400,700" rel="stylesheet">
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/owl.carousel.min.css">
-
-    <link rel="stylesheet" href="{{ site.baseurl }}/fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/fonts/fontawesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/fonts/flaticon/font/flaticon.css">
-
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
-    <!-- <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png"> -->
-  </head>
+  {% include common/header.html %}
   <body>
-    {% include header_banner.html %}
-    {% include main_section.html %}
-    {% include home_page_content.html %}
-    {% include footer.html %}
+    {% include common/header_banner.html %}
+    {% include home/main_section.html %}
+    {% include home/main.html %}
+    {% include common/footer.html %}
 
 
-    {% include js_scripts.html %}
+    {% include common/js_scripts.html %}
   </body>
 </html>

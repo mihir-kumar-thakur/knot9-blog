@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  {% include common/header.html %}
+  <body>
+    {% include common/header_banner.html %}
+    <section class="site-section py-lg">
+      <div class="container">
+        <div class="row blog-entries">
+          {% include post/content.html %}
+          {% include common/sidebar.html %}
+        </div>
+      </div>
+    </section>
+    {% include post/related_posts.html %}
+    {% include common/footer.html %}
+    {% include common/js_scripts.html %}
+  </body>
+</html>
