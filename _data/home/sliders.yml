@@ -1,0 +1,20 @@
+- title: First Post Title
+  url: /
+  image: "images/img_1.jpg"
+  category: Hello
+  date: March 15, 2015
+  description: hello word
+
+- title: Second Post Title
+  url: /
+  image: "images/img_1.jpg"
+  category: Hello
+  date: March 15, 2015
+  description: hello word
+
+- title: First Post Title
+  url: /
+  image: "images/img_1.jpg"
+  category: Hello
+  date: March 15, 2015
+  description: hello word
