@@ -29,8 +29,6 @@ markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-feed
-
-gems:
   - jekyll-paginate-v2
 
 # Pagination Settings
