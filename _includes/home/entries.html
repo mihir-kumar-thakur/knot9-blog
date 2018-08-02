@@ -2,10 +2,12 @@
   {% for post in paginator.posts %}
     <div class="col-md-6">
       <a href="{{post.url | prepend: site.baseurl}}" class="blog-entry element-animate" data-animate-effect="fadeIn">
-        <img src="{{ post.featured_image }}" alt="{{ post.title }}">
+        <img src="{{ post.thumb_image }}" alt="{{ post.title }}">
         <div class="blog-content-body">
           <div class="post-meta">
-            <span class="category">{{ post.category }}</span>
+            {% for category in post.categories %}
+              <span class="category">{{ category }}</span>
+            {% endfor %}
             <span class="mr-2">{{post.date | date: '%d %b %Y'}}</span> &bullet;
             <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
           </div>

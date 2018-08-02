@@ -41,6 +41,11 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
 
+social_network:
+  youtube: https://www.youtube.com/knot9
+  facebook: https://www.facebook.com/knot9production
+  twitter: https://twitter.com/knot9production
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

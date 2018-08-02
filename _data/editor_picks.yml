@@ -4,6 +4,7 @@
   name: FOOD
   date: March 15, 2015
   description: hello word
+  category: Food
 
 - title: "Indian Stock Footage Video | Technology"
   url: /
@@ -11,6 +12,7 @@
   name: TECHNOLOGY
   date: March 15, 2015
   description: hello word
+  category: Food
 
 - title: "Indian Stock Footage Video | Lifestyle"
   url: /
@@ -18,3 +20,4 @@
   name: LIFESTYLE
   date: March 15, 2015
   description: hello word
+  category: Food

@@ -175,7 +175,7 @@ header .navbar .dropdown-menu a {
 }
 
 .top-bar {
-  background: #000;
+  background: #393939;
   padding: 10px 0;
 }
 
@@ -421,7 +421,7 @@ header .navbar .dropdown-menu a {
 }
 
 .site-section {
-  padding: 7em 0;
+  padding: 2em 0;
 }
 
 .site-section.py-md {
@@ -1678,8 +1678,8 @@ blockquote p {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  padding: 5em 0;
-  background: #000;
+  padding: 3em 0 1em;
+  background: #363636;
 }
 
 .site-footer .post-entry-sidebar ul li a h4 {
@@ -1790,6 +1790,15 @@ blockquote p {
   -webkit-animation: loader-dash 1.5s ease-in-out infinite;
   animation: loader-dash 1.5s ease-in-out infinite;
   stroke-linecap: round;
+}
+
+.post-content-body{
+  background: #fff;
+  font-family: "font-family: 'Barlow Condensed', sans-serif";
+  font-weight: 350;
+  font-size: 20px;
+  line-height: 1.9;
+  color: rgba(0, 0, 0, 0.84);
 }
 
 @-webkit-keyframes loader-rotate {

@@ -1,0 +1,22 @@
+<div class="sidebar-box">
+  <h3 class="heading">Editor Choice</h3>
+  <div class="post-entry-sidebar">
+    <ul>
+      {% for editor_pick in site.data.editor_picks %}
+        <li>
+          <a href="{{editor_pick.url}}">
+            <img src="{{editor_pick.image}}" alt="{{editor_pick.title}}" class="mr-4">
+            <div class="text">
+              <h4>{{editor_pick.title}}</h4>
+              <div class="post-meta">
+                <span class="mr-2">{{editor_pick.date}}</span> &bullet;
+                <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
+              </div>
+            </div>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+

@@ -1,12 +1,11 @@
 ---
-title: Inspire Travelers to Become Customers with User-Generated Content
+title: 10 Photographers on How They Find Creative Inspiration
 layout: post
-description: Would-be travelers are using the social network to search for potential
-  vacation destinations, and as a resource to help them plan their next trip. One
-  study found that 48 percent of users rely on Instagram to help them choose vacation
-  destinations, while 35 percent use it as a destination-discovery tool.
-thumb_image: https://colorlib.com/preview/theme/balita/images/img_5.jpg
-categories: Food
+description: How do creatives who make art for a living stay inspired? These ten pro
+  photographers offer their favorite tips for keeping the passion flowing and the
+  work meaningful.
+thumb_image: https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/07/featured12.jpg
+categories: Photography
 tags:
 - food
 - indian-stock-video
