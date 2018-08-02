@@ -175,17 +175,25 @@ header .navbar .dropdown-menu a {
 }
 
 .top-bar {
-  background: #393939;
-  padding: 10px 0;
+  background: #363D42;
+  /*padding: 10px 0;*/
 }
 
 .top-bar .social a, .top-bar .search-icon a {
   color: #fff;
-  opacity: .5;
-  padding: 5px;
+  opacity: 10;
+  padding: 0.5rem;
 }
 
-.top-bar .social a:hover, .top-bar .search-icon a:hover {
+.navbar-brand-logo img{
+  width: 4rem;
+}
+
+.top-bar .search-icon a:hover {
+  opacity: 1;
+}
+
+.top-bar .social .hove-link a:hover{
   opacity: 1;
 }
 
@@ -1679,7 +1687,7 @@ blockquote p {
   background-position: center center;
   background-repeat: no-repeat;
   padding: 3em 0 1em;
-  background: #363636;
+  background: #363D42;
 }
 
 .site-footer .post-entry-sidebar ul li a h4 {
