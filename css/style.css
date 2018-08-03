@@ -1809,6 +1809,74 @@ blockquote p {
   color: rgba(0, 0, 0, 0.84);
 }
 
+.about-banner h3{
+  font-size: 36px;
+  margin: 0;
+  padding: 0;
+  color: #ee202e;
+  font-family: 'fantasy';
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 45%;
+  text-shadow: 1px 2px 6px #757272;
+}
+
+.about-company-details {
+  background: #f2f2f2;
+  width: 100%;
+  float: left;
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.about-company-details h1 {
+  color: #ee202e;
+  font-family: 'fantasy-bold';
+  font-size: 36px;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.about-company-details h3 {
+  font-size: 14px;
+  font-family: 'serif';
+  text-align: center;
+  margin: 0;
+  padding-bottom: 25px;
+}
+
+.about-company-details h1 font {
+  color: #1a1a1a;
+  font-family: 'fantasy-light';
+}
+
+.about-company-details img {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.abt-why-us {
+  background: #fff;
+}
+
+.abt-why-us .col-sm-4 img {
+  display: block;
+  margin: 0 auto;
+}
+
+.abt-why-us strong {
+  display: block;
+  color: #1a1a1a;
+  padding: 25px 0;
+  text-align: center;
+  width: 100%;
+  float: left;
+  font-family: 'roboto-bold';
+  font-size: 17px;
+}
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);

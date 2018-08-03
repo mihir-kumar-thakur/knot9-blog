@@ -4,7 +4,7 @@
     {% for category in page.categories %}
       <span class="category">{{category}}</span>
     {% endfor %}
-    <span class="mr-2">{{page.date}}</span> &bullet;
+    <span class="mr-2">{{page.date | date: '%d %b %Y'}}</span> &bullet;
     <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
   </div>
   <div class="post-content-body">

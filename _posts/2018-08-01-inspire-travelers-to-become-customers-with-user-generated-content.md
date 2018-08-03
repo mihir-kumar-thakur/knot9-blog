@@ -22,7 +22,7 @@ If you’re feeling stuck, it can be hard to find the motivation to seek new ins
 1. “I’m not looking for the best-selling image but for the best theme.”
 sdecoret (Sébastien Decoret)
 
-![](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/07/ugc-ig-tag.jpg ){: class="img-fluid"}
+![](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/07/ugc-ig-tag.jpg )
 
 How do creatives who make art for a living stay inspired? These ten pro photographers offer their favorite tips for keeping the passion flowing and the work meaningful.
 Etymologically, the word “inspiration” suggests some sort of divine guidance, but in reality, inspiration usually doesn’t come to you unbidden. It’s something you have to find yourself. In most cases, sources of inspiration need to be cultivated over long periods of time, and for photographers, learning how and where to get inspiration is as important as learning how to operate a camera.
@@ -32,5 +32,8 @@ If you’re feeling stuck, it can be hard to find the motivation to seek new ins
 1. “I’m not looking for the best-selling image but for the best theme.”
 sdecoret (Sébastien Decoret)
 
-![](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/07/ugc-ig-tag.jpg ){: class="img-fluid"}
-![](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/07/ugc-ig-tag.jpg ){: class="img-fluid"}
+![](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/07/ugc-ig-tag.jpg )
+![](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/07/ugc-ig-tag.jpg )
+
+
+![](https://ak.picdn.net/assets/cms/8c40c6f7355d86fabea9291fd2fb19d95678e11a-shutterstock_711159319.jpg)

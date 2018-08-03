@@ -2,6 +2,13 @@
 
 	'use strict';
 
+  function youtubeIframe(element_to_pick) {
+    element_to_pick.html(function(i, html) {
+        return html.replace(/(?:http:|https:)?(?:\/\/)(?:www\.)?(?:youtube\.com|youtu\.be)\/(?:watch\?v=)?([^<.,!():"'\s]+)/g,
+          '<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/$1?rel=0" allowfullscreen></iframe></div>');
+      });
+  }
+
 	// bootstrap dropdown hover
 
   // loader
