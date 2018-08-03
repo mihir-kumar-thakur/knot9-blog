@@ -1,12 +1,12 @@
 <div class="row">
   {% for category in site.data.home.focus_category %}
-    <div class="col-md-4 col-lg-4">
-      <a href="{{category.url}}" class="a-block d-flex align-items-center height-md" style="background-image: url({{category.image}}); ">
+    <div class="col-sm-4 col-sm-4">
+      <a href="{{category.url}}" class="a-block d-sm-flex align-items-center height-sm" style="background-image: url({{category.image}}); ">
         <div class="text">
           <div class="post-meta">
             <span class="category">{{category.name}}</span>
-            <span class="mr-2">{{category.date}}</span> &bullet;
-            <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
+            <!-- <span class="mr-2">{{category.date}}</span> &bullet; -->
+            <!-- <span class="ml-2"><span class="fa fa-comments"></span> 3</span> -->
           </div>
           <h3>{{category.title}}</h3>
         </div>

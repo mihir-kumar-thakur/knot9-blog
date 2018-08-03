@@ -231,10 +231,10 @@ header .navbar .dropdown-menu a {
   display: block;
   background-size: cover;
   background-position: center center;
-  padding: 30px;
+  padding: 20px;
   position: relative;
   margin-bottom: 30px;
-  height: 300px;
+  height: 201px;
 }
 
 .a-block.height-lg {
