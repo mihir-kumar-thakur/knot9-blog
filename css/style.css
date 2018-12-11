@@ -1920,3 +1920,17 @@ blockquote p {
     stroke-dashoffset: -136px;
   }
 }
+
+.light-blue-highlight {
+  background-color: #e8f3f7;
+  padding: 20px;
+  font-size: 1.45rem;
+}
+
+.blockquote {
+  padding: .5rem 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  border-left: 5px solid #2b90d9;
+}
+
