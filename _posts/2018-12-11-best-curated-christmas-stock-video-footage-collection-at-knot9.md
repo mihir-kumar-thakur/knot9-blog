@@ -1,5 +1,5 @@
 ---
-title: Best curated Christmas stock video footage collection
+title: Best Curated Christmas Stock Video Footage Collection
 layout: post
 description: How do creatives who make art for a living stay inspired? These ten pro
   photographers offer their favorite tips for keeping the passion flowing and the
